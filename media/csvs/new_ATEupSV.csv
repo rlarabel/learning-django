@@ -1,0 +1,2 @@
+row_id;transaction_id;product;quantity;customer;date;
+1;E500;TV;3;Test Customer;2021-05-20;
